@@ -1,4 +1,4 @@
-Framework for training a neural network model for object detection task in 2d image
+Framework for training a neural network model for object detection in 2d image
 
 ### Getting started
 ##### Dataset
@@ -37,5 +37,5 @@ python train.py
 
 ### References
 
-[Object Detection PyTorch](https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html)
+[Object Detection PyTorch](https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html) <br>
 [ImageNet PyTorch example](https://github.com/pytorch/examples/tree/master/imagenet)
